@@ -1,4 +1,4 @@
-<h1><img src="https://imgur.com/ReAaA9h" width="30"/> Menkoh</h1>
+<h1><img src="https://cdn.discordapp.com/attachments/866360881591746570/875149380754243605/28.gif" width="30"/> Menkoh</h1>
 
  <a href="https://github.com/menkoh/">
 <div align="center"><p align="center">Discord</p><img src="https://discord.c99.nl/widget/theme-4/866122568036384839.png" /></div>
